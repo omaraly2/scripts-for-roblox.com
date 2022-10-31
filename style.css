@@ -1,0 +1,14 @@
+body {
+    background-color: red;
+}
+
+div {
+    color: white;
+    font-size: 2.6rem;
+}
+
+a {
+    color: burlywood;
+    font-size: 2rem;
+    background-color: rgb(78, 77, 55);
+}
